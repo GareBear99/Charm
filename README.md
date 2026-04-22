@@ -38,6 +38,15 @@ receipts + replay:
 
 ---
 
+<!-- ARC-Official-Docs-Link-Marker -->
+## 📖 Official docs
+
+[**Open the rendered official docs → https://garebear99.github.io/Charm/official/charm_extension_spec_v3.html**](https://garebear99.github.io/Charm/official/charm_extension_spec_v3.html)
+
+Also available under [`docs/official/`](https://github.com/GareBear99/Charm/tree/main/docs/official) in-tree, and through the Pages landing at [https://garebear99.github.io/Charm/](https://garebear99.github.io/Charm/).
+
+
+
 # Charm Extension (Base / Uniswap v3) — $≤12 Spot Bot
 
 This package runs an **autonomous** ETH<->USDC spot bot on **Base** using **Uniswap v3**.
