@@ -127,3 +127,21 @@ own live GitHub Pages docs site, source, and README.
 - [ARC-Core](https://github.com/GareBear99/ARC-Core) — governed event + receipt spine the fleet plugs into.
 - [omnibinary-runtime](https://github.com/GareBear99/omnibinary-runtime) + [Arc-RAR](https://github.com/GareBear99/Arc-RAR) — any-OS portability for deployment.
 - [Portfolio](https://github.com/GareBear99/Portfolio) — full project index (audio plugins, games, simulators, AI runtimes, robotics, trading).
+
+---
+
+<!-- ARC-Funding-Badges-Marker -->
+## 💖 Support the fleet
+
+If this repo helps you, the maintainer runs the entire ARC ecosystem solo.
+Any of the following keep the lights on:
+
+[![Sponsor](https://img.shields.io/badge/GitHub%20Sponsors-GareBear99-ea4aaa?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/GareBear99)
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-garebear99-FFDD00?logo=buymeacoffee&logoColor=black)](https://www.buymeacoffee.com/garebear99)
+[![Ko-fi](https://img.shields.io/badge/Ko--fi-garebear99-FF5E5B?logo=ko-fi&logoColor=white)](https://ko-fi.com/garebear99)
+
+- **GitHub Sponsors**: <https://github.com/sponsors/GareBear99>
+- **Buy Me a Coffee**: <https://www.buymeacoffee.com/garebear99>
+- **Ko-fi**: <https://ko-fi.com/garebear99>
+
+Every dollar funds hardening across **ARC-Core + the 15 consumer repos + the four roadmap repos**. One author, one funding pool.
