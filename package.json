@@ -1,0 +1,17 @@
+{
+  "name": "charm-extension-bot",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Charm Extension: Base L2 ETH/USDC mean-reversion swap bot on Uniswap v3 (MetaMask for funding).",
+  "main": "src/bot.js",
+  "scripts": {
+    "start": "node src/bot.js",
+    "dryrun": "DRY_RUN=1 node src/bot.js",
+    "backtest:lp": "node tools/backtest_lp.js",
+    "tune:3phase": "node tools/tune_3phase.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "ethers": "^6.13.4"
+  }
+}
