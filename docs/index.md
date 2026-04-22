@@ -11,6 +11,14 @@ description: Uniswap v3 Spot Bot on Base (Node.js) — part of the ARC Trading F
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/GareBear99/Charm/blob/main/LICENSE)
 [![Built on ARC-Core](https://img.shields.io/badge/built%20on-ARC--Core-5B6CFF)](https://github.com/GareBear99/ARC-Core)
 
+## 📖 Official docs
+
+[![Open the official docs](https://img.shields.io/badge/%F0%9F%93%96%20Open%20Official%20Docs-Charm%20Extension%20Spec%20v3-0366d6?style=for-the-badge)](./official/charm_extension_spec_v3.html)
+
+[![Spec PDF](https://img.shields.io/badge/%F0%9F%93%84%20Spec%20v3-PDF-grey?style=for-the-badge)](./official/Charm_Extension_Spec_v3.pdf) [![Liquidity Pool Wrapper PDF](https://img.shields.io/badge/%F0%9F%93%97%20LP%203-Phase%20Wrapper-PDF-grey?style=for-the-badge)](./official/Liquidity_Pool_3Phase_Wrapper_v3.pdf)
+
+Live URL of the primary doc: `https://garebear99.github.io/Charm/official/charm_extension_spec_v3.html`
+
 ## What this is
 
 Charm is part of the **ARC Trading Fleet** — six public repositories that share a
